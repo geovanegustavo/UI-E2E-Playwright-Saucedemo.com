@@ -1,0 +1,23 @@
+{
+  "name": "ui-e2e-playwright-saucedemo.com",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes end-to-end utilizando **[Playwright](https://playwright.dev/)** para o site [SauceDemo](https://www.saucedemo.com/).",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geovanegustavo/UI-E2E-Playwright-Saucedemo.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/geovanegustavo/UI-E2E-Playwright-Saucedemo.com/issues"
+  },
+  "homepage": "https://github.com/geovanegustavo/UI-E2E-Playwright-Saucedemo.com#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
