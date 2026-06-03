@@ -1,0 +1,1 @@
+Utilize esta URL https://www.saucedemo.com/ e planeje um roteiro de teste para validar a página de login.

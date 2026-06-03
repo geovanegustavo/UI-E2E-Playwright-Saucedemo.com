@@ -26,7 +26,7 @@ O Playwright oferece três agentes de teste integrados ao VSCode que auxiliam na
 
 ### Inicializar Agentes no VSCode
 
-Para inicializar os agentes do Playwright no VSCode, execute:
+Para instalar os agentes do Playwright no VSCode, execute:
 
 ```bash
 npx playwright init-agents --loop=vscode
